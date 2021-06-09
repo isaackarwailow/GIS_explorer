@@ -1,4 +1,4 @@
-# GIS_explorer folder
+# GIS-code
 - GIS stand for Geospatial Information Systems. The data in the folder uses folium and leaflet.js to plot geojson data into maps
 - This is good for plotting choropleth maps by interpreting the geojson data as shades of RGB colors on map overlays
 
